@@ -5,5 +5,5 @@
 -          - 🔵 linkdin : www.linkedin.com/in/abolfazlnasibi2005
 -          - 🔵 email : abolfazlnasibi2024@gmail.com
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abolfazl-Nasibi&show_icons=true&theme=gotham )
 
