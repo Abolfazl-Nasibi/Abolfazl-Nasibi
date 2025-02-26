@@ -1,6 +1,6 @@
 - ### Hi, I’m Abolfazl-Nasibi
 - 👀 I’m interested in frontEnd , technology , photoshop , video editing and gym 
-- 🌱 I’m currently upgrading my skills by doing a valuable project
+- 🌱 I’m currently Learning React Js
 - 📫 How to reach me :📧[Email](mailto:abolfazlnasibi2024@gmail.com)
 
 
