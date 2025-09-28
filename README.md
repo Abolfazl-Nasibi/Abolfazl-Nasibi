@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hi, I'm Abolfazl<br>🎓 Computer Engineerin student<br>💻 Working with React and Tailwind<br>🎸 I play guitar!
+👋 Hi, I'm Abolfazl<br>🎓 Computer Engineering student<br>💻 Working with React and Tailwind<br>🎸 I play guitar!
 
 
 ## 🌐 Socials:
